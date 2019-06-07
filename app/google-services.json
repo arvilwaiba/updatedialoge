@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "457611710923",
+    "firebase_url": "https://updatedialogapp.firebaseio.com",
+    "project_id": "updatedialogapp",
+    "storage_bucket": "updatedialogapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457611710923:android:c0167efc9d7849a7",
+        "android_client_info": {
+          "package_name": "com.example.updatedilogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457611710923-p1o8nvrcqtpmclhd6li4ittu8i82s85p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.updatedilogapp",
+            "certificate_hash": "82bcc80c921f4e2aaa3c565e2a8c5575fae7e517"
+          }
+        },
+        {
+          "client_id": "457611710923-hr2ad56e6c2gu7a5n9np44f682f0r4v9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxfYchFGTLlhsZVPph917r_QsqQquqfuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457611710923-hr2ad56e6c2gu7a5n9np44f682f0r4v9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
